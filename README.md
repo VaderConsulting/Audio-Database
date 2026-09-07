@@ -1,6 +1,6 @@
 # Audio Database
 
-VB6 working copy of `Audio Database` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Audio Database. Output: `AudioDB.exe`.
+VB6 Audio Database (`AudioDB.exe`) music catalog with Access MDBs (`Music.mdb` / variants), browse/search/prefs forms, ADO, and MCI playback helpers. Related to sibling `Audio-Player`. Open `Audio Database.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,7 +10,7 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `AudioDatabase` (`Audio Database.vbp`) | VB6 | WinForms exe | Audio Database |
+| `AudioDatabase` (`Audio Database.vbp`) | VB6 | WinForms exe | Music catalog browse/search with MCI |
 
 ## How to open
 
